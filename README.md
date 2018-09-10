@@ -38,17 +38,17 @@ This is a repository for the KAIST Summer Session 2018 - Research Design for Dat
 * M2.4: Advanced STATA Programming
 
 ## [Module 3. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%203)
-* M2.1: Deep Learning 101 - Part 1.
-* M2.2: Deep Learning 101 - Part 2.
-* M2.3: Web Data Extraction
-* M2.4: Linear Regression in the PyTorch Way
-* M2.5: Convolutional Neural Network (CNN)
+* M3.1: Deep Learning 101 - Part 1.
+* M3.2: Deep Learning 101 - Part 2.
+* M3.3: Web Data Extraction
+* M3.4: Linear Regression in the PyTorch Way
+* M3.5: Convolutional Neural Network (CNN)
 	1. (Application for NLP) Sentence Classification
-* M2.6: Recurrent Neural Network (RNN)
+* M3.6: Recurrent Neural Network (RNN)
 	1. (Application for NLP) Machine Translation (Sequence-to-Sequence)
-* M2.7: Deep Reinforcement Learning 
+* M3.7: Deep Reinforcement Learning 
 	1. Deep Q-Network (DQN)
-* M2.8: Leveraging Deep Learning on Your Computer
+* M3.8: Leveraging Deep Learning on Your Computer
 	1. Supervised Learning using Amazon Mechanical Turk
 	2. How to Use Cloud-based APIs
 	3. Running Deep Learning on the Cloud (Amazon Web Service)
