@@ -1,7 +1,7 @@
 # Kaist Summer Session 2018
 
 This is a repository for the KAIST Summer Session 2018 - Research Design for Data Analytics [June 2018 - August 2018].
-* See [the session website](https://sites.google.com/view/kaist-mis-session2018) for detailed curriculum
+* See the [session website](https://sites.google.com/view/kaist-mis-session2018) for detailed curriculum
 
 ## Introduction
 * Instructor: [Jiyong Park](https://jiyong-park.github.io/), PhD Candidate at KAIST (jiyong.park@kaist.ac.kr)
