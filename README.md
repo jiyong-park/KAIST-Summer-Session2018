@@ -1,6 +1,7 @@
-# kaist-summer-session2018
+# Kaist Summer Session 2018
 
-[KAIST Summer Session 2018 - Research Design for Data Analytics][https://sites.google.com/view/kaist-mis-session2018] [June 2018 - August 2018]
+This is a repository for the KAIST Summer Session 2018 - Research Design for Data Analytics [June 2018 - August 2018].
+* See [the session website](https://sites.google.com/view/kaist-mis-session2018) for detailed curriculum
 
 ## Introduction
 * Instructor: Jiyong Park, PhD Candidate at KAIST (jiyong.park@kaist.ac.kr)
@@ -14,7 +15,7 @@
 	3. Module 3: (Hands-on) Deep Learning with PyTorch
 
 
-## [Module 1. Research Design for Data Analytics][https://github.com/jiyong-park/kaist-summer-session2018/Module 1]
+## [Module 1. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/Module 1)
 * M1.1: Two Paradigms of Analytics: Input-Output Framework
 * M1.2: The Right Tool for the Right Question
 	1. Why is Predictive Analytics not Well-Suited for Causal Inference?
@@ -30,13 +31,13 @@
 * M1.7: Computational Social Science: Computer Science for Social Science
 * M1.8: Economining: Data Mining and Machine Learning for Empirical Research
 
-## [Module 2. Research Design for Data Analytics][https://github.com/jiyong-park/kaist-summer-session2018/Module 2]
+## [Module 2. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/Module 2)
 * M2.1: Replication Project (1) Randomized Experiment
 * M2.2: Replication Project (2) Difference-in-Differences
 * M2.3: Replication Project (3) Instrument Variable Approach 
 * M2.4: Advanced STATA Programming
 
-## [Module 3. Research Design for Data Analytics][https://github.com/jiyong-park/kaist-summer-session2018/Module 3]
+## [Module 3. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/Module 3)
 * M2.1: Deep Learning 101 - Part 1.
 * M2.2: Deep Learning 101 - Part 2.
 * M2.3: Web Data Extraction
