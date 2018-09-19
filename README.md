@@ -1,4 +1,4 @@
-# Kaist Summer Session 2018
+# KAIST Summer Session 2018
 
 This is a repository for the KAIST Summer Session 2018 - Research Design for Data Analytics [June 2018 - August 2018].
 * See the [session website](https://sites.google.com/view/kaist-mis-session2018) for detailed curriculum
