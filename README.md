@@ -15,7 +15,7 @@ This is a repository for the KAIST Summer Session 2018 - Research Design for Dat
 	3. Module 3: (Hands-on) Deep Learning with PyTorch
 
 
-## [Module 1. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%201)
+## [Module 1. (Lecture) Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%201)
 * M1.1: Two Paradigms of Analytics: Input-Output Framework
 * M1.2: The Right Tool for the Right Question
 	1. Why is Predictive Analytics not Well-Suited for Causal Inference?
@@ -31,13 +31,13 @@ This is a repository for the KAIST Summer Session 2018 - Research Design for Dat
 * M1.7: Computational Social Science: Computer Science for Social Science
 * M1.8: Economining: Data Mining and Machine Learning for Empirical Research
 
-## [Module 2. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%202)
+## [Module 2. (Hands-on) Causal Inference with STATA](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%202)
 * M2.1: Replication Project (1) Randomized Experiment
 * M2.2: Replication Project (2) Difference-in-Differences
 * M2.3: Replication Project (3) Instrument Variable Approach 
 * M2.4: Advanced STATA Programming
 
-## [Module 3. Research Design for Data Analytics](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%203)
+## [Module 3. (Hands-on) Deep Learning with PyTorch](https://github.com/jiyong-park/kaist-summer-session2018/tree/master/Module%203)
 * M3.1: Deep Learning 101 - Part 1.
 * M3.2: Deep Learning 101 - Part 2.
 * M3.3: Web Data Extraction
